@@ -98,3 +98,9 @@
     </li>
 </ul>
 </p>
+
+<h2>Results, Conclusion and more</h2>
+<p>
+   In order to get insights on result and conclusion, as well as to get a thorough understanding of what we did,
+   check out our full <a href="/projectReport.pdf">project report pdf</a> in the repository.
+</p>
